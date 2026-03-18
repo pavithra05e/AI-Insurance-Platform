@@ -149,7 +149,7 @@ This ensures **zero manual effort** for workers and provides a reliable financia
 ## ⚠️ Constraints Followed
 - ❌ No health or accident insurance
 - ❌ No vehicle repair coverage
-- ✅ Focus only on **income loss protection** :contentReference[oaicite:1]{index=1}
+- ✅ Focus only on **income loss protection**
 
 ---
 
@@ -165,7 +165,3 @@ This ensures **zero manual effort** for workers and provides a reliable financia
 This platform provides a **smart, automated, and scalable insurance solution** tailored for India’s gig economy, ensuring financial stability and trust during unpredictable disruptions.
 
 ---
-
-## 📎 Demo & Repository
-- GitHub Repo: [Add Link]
-- Demo Video: [Add Link]
