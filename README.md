@@ -3,7 +3,7 @@
 ## 📌 Problem Statement
 India’s gig economy workers (Zomato, Swiggy, Zepto, etc.) face unpredictable income loss due to external disruptions such as extreme weather, pollution, or curfews.
 
-Currently, there is **no protection system** to safeguard their earnings during such events. Workers lose up to **20–30% of their income** due to these uncontrollable factors. :contentReference[oaicite:0]{index=0}
+Currently, there is **no protection system** to safeguard their earnings during such events. Workers lose up to **20–30% of their income** due to these uncontrollable factors.
 
 ---
 
