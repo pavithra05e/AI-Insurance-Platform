@@ -24,9 +24,9 @@ Instead of traditional insurance, we use a **parametric model**:
 - If a condition (like heavy rain) happens → payout is triggered automatically
 
 This makes the process:
-- Faster ⚡  
-- Simple 👍  
-- Fair 💯  
+- Faster   
+- Simple   
+- Fair 
 
 ---
 
@@ -57,10 +57,10 @@ No manual claim needed.
 
 ### 2. Automatic Claim Trigger
 - Detects events like:
-  - Heavy rain 🌧️  
-  - Floods 🌊  
-  - Extreme heat ☀️  
-  - Curfews 🚫  
+  - Heavy rain   
+  - Floods   
+  - Extreme heat   
+  - Curfews 
 - No user action required
 
 ---
@@ -142,9 +142,9 @@ APIs:
 
 ## ⚠️ Constraints Followed
 
-- ❌ No health or accident insurance  
-- ❌ No vehicle repair coverage  
-- ✅ Only income loss protection  
+-  No health or accident insurance  
+-  No vehicle repair coverage  
+-  Only income loss protection  
 
 ---
 
@@ -157,7 +157,6 @@ APIs:
 
 ---
 
-## 📎 Demo & Repository
+## 📎 Demo 
 
-- GitHub Repo: [Add Link]
-- Demo Video: [Add Link]
+- Demo Video: [https://drive.google.com/file/d/1pYhfXmKGpC5i-JoijSlXL5PXP5XUkhW0/view?usp=sharing]
